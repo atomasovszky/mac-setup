@@ -1,4 +1,3 @@
 k9s
-mongodb-community
-mongodb-database-tools
+mongodb/brew/mongodb-community
 r
