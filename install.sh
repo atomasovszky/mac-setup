@@ -9,6 +9,7 @@ for formula in $(cat formulas); do
 done
 
 # Install homebrew casks
+brew tap homebrew/cask-fonts
 for cask in $(cat casks); do
 	brew install --cask $cask;
 done
