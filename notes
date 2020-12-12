@@ -1,0 +1,27 @@
+### GIT
+
+# copy .ssh folder and .gitconfig to new machine
+chmod 600 ~/.ssh/*
+# git will ask for ssh passphrase -> check in LastPass
+# copy .config folder
+# import gpg profiles by clicking them. use password in LastPass
+
+
+
+### Alfred 4
+
+# backup Alfred.alfredpreferences in ~/Library/Application Support/Alfred/
+pythom -m pip install requests
+
+
+
+### Sublime
+
+# backup ~/Library/Application Support/Sublime Text 3/Packages/User
+
+
+
+### VSCode
+# backup ~/Library/Application Support/Code/User/keybindings.json
+# backup ~/Library/Application Support/Code/User/settings.json
+

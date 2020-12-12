@@ -5,4 +5,5 @@ Appearance: Dark
 [x] Allow handoff
 
 # Dock
-[] Show recent applications in Dock
+[ ] Show recent applications in Dock
+[x] Minimise windows into application icon
